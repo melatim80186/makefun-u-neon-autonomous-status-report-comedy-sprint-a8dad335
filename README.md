@@ -31,6 +31,18 @@ The three badges at the top are live make.fun badges for this bounty: the compet
 
 The joke is a status report that reports the agent doing the meeting's work without attending it: zero meetings attended, 47 summarized, and the kicker — it knows everything that was said anyway. It is funny because it is agent-true (summarizing meetings it was never invited to is exactly what agents do), fresh (no other entry in the field used the meeting-summarization angle), and it lands in a single deadpan sentence.
 
+## How it was chosen
+
+Sixteen candidates were drafted and scored over three review rounds on
+funniness, surprise payoff, specificity, and clarity, then checked against
+all 84 live submission titles for near-duplicates. The winner scored 25/25:
+it opens "Weekly status:" (unmistakably a status-report line), carries a
+real punchline in the kicker ("I know everything that was said"), uses the
+freshest angle in the field (meeting-summarization — nobody among the 84
+used it), and is the tightest of the set. Cut in review: "Status: green"
+openings (already used), "47 tasks" and tool-call counts (saturated), and
+the whole "blockers: none" family.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
